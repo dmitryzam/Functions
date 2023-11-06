@@ -73,7 +73,7 @@ int main() {
 	std::cout << "Индексы положительных элементов:\n";
 	positive_elements(arr1, size1);
 	std::cout << '\n';
-	
+	д
 
 	// Задача 2. Факториал.
 	std::cout << "Задача 2.\nВведите число -> ";
